@@ -1,0 +1,5 @@
+15:05:28:10:35 0061 arukod21 arukod13 arukod14
+5 0062 arukod21 arukod13 arukod14 arukod15
+3 0063 arukod21 arukod13 arukod14 arukod15 arukod15 arukod16
+4 0063 arukod21 arukod13 arukod14 arukod23 arukod15 arukod16
+6 0062 arukod21 arukod13 arukod14 arukod15
